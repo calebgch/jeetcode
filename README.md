@@ -1,2 +1,2 @@
-# jeetcode
-my practice from jeetcode
+# leetcode
+my practice from leetcode
